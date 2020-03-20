@@ -1,0 +1,342 @@
+[
+    {
+        "id": 1,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Wilson Audio",
+        "filterBrand": "wilson-audio",
+        "model": "Сhronosonic-XVX",
+        "price": 850000,
+        "imgName": "wilson-audio/chronosonic-xvx.jpg"
+    },
+    {   
+        "id": 2,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Wilson Audio",
+        "filterBrand": "wilson-audio",
+        "model": "Alexandria-XLF",
+        "price": 210000,
+        "imgName": "wilson-audio/alexandria-xlf.jpg"
+    },
+    {
+        "id": 3,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Wilson Audio",
+        "filterBrand": "wilson-audio",
+        "model": "Alexx",
+        "price": 135000,
+        "imgName": "wilson-audio/alexx.jpg"
+    },
+    {
+        "id": 4,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Wilson Audio",
+        "filterBrand": "wilson-audio",
+        "model": "Alexia",
+        "price": 92000,
+        "imgName": "wilson-audio/alexia-series-2.jpg"
+    },
+    {   
+        "id": 5,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Wilson Audio",
+        "filterBrand": "wilson-audio",
+        "model": "Sasha DAW",
+        "price": 48000,
+        "imgName": "wilson-audio/sasha-daw.jpg"
+    },
+    {
+        "id": 6,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Wilson Audio",
+        "filterBrand": "wilson-audio",
+        "model": "Yvette",
+        "price": 25500,
+        "imgName": "wilson-audio/yvette.jpg"
+    },
+    {
+        "id": 7,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Wilson Audio",
+        "filterBrand": "wilson-audio",
+        "model": "Sabrina",
+        "price": 15900,
+        "imgName": "wilson-audio/sabrina.jpg"
+    },
+    {
+        "id": 8,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Sonus Faber",
+        "filterBrand": "sonus-faber",
+        "model": "Lilium",
+        "price": 72000,
+        "imgName": "sonus-faber/lilium.jpg"
+    },
+    {
+        "id": 9,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Sonus Faber",
+        "filterBrand": "sonus-faber",
+        "model": "Il Cremonese",
+        "price": 48000,
+        "imgName": "sonus-faber/il-cremonese.jpg"
+    },
+    {
+        "id": 10,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Sonus Faber",
+        "filterBrand": "sonus-faber",
+        "model": "Amati Tradition",
+        "price": 27000,
+        "imgName": "sonus-faber/amati-tradition.jpg"
+    },
+    {
+        "id": 11,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Sonus Faber",
+        "filterBrand": "sonus-faber",
+        "model": "Amati Tradition",
+        "price": 19800,
+        "imgName": "sonus-faber/serafino-tradition.jpg"
+    },
+    {
+        "id": 12,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Sonus Faber",
+        "filterBrand": "sonus-faber",
+        "model": "Olympica Nova",
+        "price": 13800,
+        "imgName": "sonus-faber/olympica-nova.jpg"
+    },
+    {
+        "id": 13,
+        "category": "Acoustics",
+        "filterCategory": "speakers",
+        "brand": "Sonus Faber",
+        "filterBrand": "sonus-faber",
+        "model": "Sonetto VIII",
+        "price": 6500,
+        "imgName": "sonus-faber/sonetto-8.jpg"
+    },
+    {
+        "id": 14,
+        "category": "Preamplifier",
+        "filterCategory": "pre-amp",
+        "brand": "Dan d'Agostino",
+        "filterBrand": "dan-d-agostino",
+        "model": "Progression PreAMP",
+        "price": 22000,
+        "imgName": "dan-d-agostino/progression-pre-amp.jpg"
+    },
+    {
+        "id": 15,
+        "category": "Amplifier",
+        "filterCategory": "amps",
+        "brand": "Dan d'Agostino",
+        "filterBrand": "dan-d-agostino",
+        "model": "Progression Mono AMP",
+        "price": 22500,
+        "imgName": "dan-d-agostino/progression-mono-amp.jpg"
+    },
+    {
+        "id": 16,
+        "category": "Preamplifier",
+        "filterCategory": "pre-amp",
+        "brand": "Dan d'Agostino",
+        "filterBrand": "dan-d-agostino",
+        "model": "Momentum HD PreAMP",
+        "price": 40000,
+        "imgName": "dan-d-agostino/momentum_hd_preamp.jpg"
+    },
+    {
+        "id": 17,
+        "category": "Amplifier",
+        "filterCategory": "amps",
+        "brand": "Dan d'Agostino",
+        "filterBrand": "dan-d-agostino",
+        "model": "Momentum M400",
+        "price": 32500,
+        "imgName": "dan-d-agostino/momentum-m400.jpg"
+    },
+    {
+        "id": 18,
+        "category": "Amplifier",
+        "filterCategory": "amps",
+        "brand": "Dan d'Agostino",
+        "filterBrand": "dan-d-agostino",
+        "model": "Momentum Stereo250",
+        "price": 30000,
+        "imgName": "dan-d-agostino/momentum-stereo-250.jpg"
+    },
+    {
+        "id": 19,
+        "category": "Preamplifier",
+        "filterCategory": "pre-amp",
+        "brand": "McIntosh",
+        "filterBrand": "mcintosh",
+        "model": "C1100",
+        "price": 18000,
+        "imgName": "mcintosh/c-1100.jpg"
+    },
+    {
+        "id": 20,
+        "category": "Preamplifier",
+        "filterCategory": "pre-amp",
+        "brand": "McIntosh",
+        "filterBrand": "mcintosh",
+        "model": "C53",
+        "price": 12000,
+        "imgName": "mcintosh/c-53.jpg"
+    },
+    {
+        "id": 21,
+        "category": "Amplifier",
+        "filterCategory": "amps",
+        "brand": "McIntosh",
+        "filterBrand": "mcintosh",
+        "model": "MC1.25KW",
+        "price": 12000,
+        "imgName": "mcintosh/mc-125kw.jpg"
+    },
+    {
+        "id": 22,
+        "category": "Amplifier",
+        "filterCategory": "amps",
+        "brand": "McIntosh",
+        "filterBrand": "mcintosh",
+        "model": "MC901",
+        "price": 17500,
+        "imgName": "mcintosh/mc-901.jpg"
+    },
+    {
+        "id": 23,
+        "category": "Amplifier",
+        "filterCategory": "amps",
+        "brand": "McIntosh",
+        "filterBrand": "mcintosh",
+        "model": "MC2301",
+        "price": 15500,
+        "imgName": "mcintosh/mc-2301.jpg"
+    },
+    {
+        "id": 24,
+        "category": "Amplifier",
+        "filterCategory": "amps",
+        "brand": "McIntosh",
+        "filterBrand": "mcintosh",
+        "model": "MC255",
+        "price": 10500,
+        "imgName": "mcintosh/mc-255.jpg"
+    },
+    {
+        "id": 25,
+        "category": "Network player",
+        "filterCategory": "network-player",
+        "brand": "dCS",
+        "filterBrand": "dcs",
+        "model": "Vivaldi DAC",
+        "price": 34000,
+        "imgName": "dcs/vivaldi-dac.jpg"
+    },
+    {
+        "id": 26,
+        "category": "Network player",
+        "filterCategory": "network-player",
+        "brand": "dCS",
+        "filterBrand": "dcs",
+        "model": "Rossini DAC",
+        "price": 21500,
+        "imgName": "dcs/rossini-dac.jpg"
+    },
+    {
+        "id": 27,
+        "category": "Network player",
+        "filterCategory": "network-player",
+        "brand": "dCS",
+        "filterBrand": "dcs",
+        "model": "Bartok DAC",
+        "price": 13500,
+        "imgName": "dcs/bartok-dac.jpg"
+    },
+    {
+        "id": 28,
+        "category": "TV",
+        "filterCategory": "tv",
+        "brand": "Loewe",
+        "filterBrand": "loewe",
+        "model": "7.77",
+        "price": 16500,
+        "imgName": "loewe/bild-7-77.jpg"
+    },
+    {
+        "id": 29,
+        "category": "TV",
+        "filterCategory": "tv",
+        "brand": "Loewe",
+        "filterBrand": "loewe",
+        "model": "5.55",
+        "price": 4800,
+        "imgName": "loewe/bild-5-55.jpg"
+    },
+    {
+        "id": 30,
+        "category": "TV",
+        "filterCategory": "tv",
+        "brand": "Loewe",
+        "filterBrand": "loewe",
+        "model": "3.55",
+        "price": 2850,
+        "imgName": "loewe/bild-3-55.jpg"
+    },
+    {
+        "id": 31,
+        "category": "Projector",
+        "filterCategory": "projector",
+        "brand": "JVC",
+        "filterBrand": "jvc",
+        "model": "RS-3000",
+        "price": 15850,
+        "imgName": "jvc/dla-rs-3000.jpg"
+    },
+    {
+        "id": 32,
+        "category": "Projector",
+        "filterCategory": "projector",
+        "brand": "JVC",
+        "filterBrand": "jvc",
+        "model": "RS-2000",
+        "price": 10000,
+        "imgName": "jvc/dla-rs-1000-2000.jpg"
+    },
+    {
+        "id": 33,
+        "category": "Projector",
+        "filterCategory": "projector",
+        "brand": "JVC",
+        "filterBrand": "jvc",
+        "model": "RS-1000",
+        "price": 5999,
+        "imgName": "jvc/dla-rs-1000-2000.jpg"
+    },
+    {
+        "id": 34,
+        "category": "Projector",
+        "filterCategory": "projector",
+        "brand": "JVC",
+        "filterBrand": "jvc",
+        "model": "RS-540",
+        "price": 5299,
+        "imgName": "jvc/dla-rs-540.jpg"
+    }
+]
